@@ -17,7 +17,7 @@ node {
         else {
                
             input('Do you want to trigger demo1 build?')
-            build 'jenkins-PipelineProject-1'
+            build 'jenkins-PipelineProject-2'
               
              echo 'Running on Stage #1'
            
